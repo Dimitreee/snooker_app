@@ -28,7 +28,7 @@ Portal Snooker is a web-based snooker game that utilizes the p5.js and Matter.js
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dimitreeee/portal-snooker.git
+   git clone https://github.com/Dimitreeee/snooker_app.git
    ```
 2. Navigate to the project directory:
    ```bash
